@@ -5,7 +5,7 @@ SteamHTTPS is a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) [UserScri
 ### Install
 For use with Tampermonkey please read http://tampermonkey.net/faq.php#Q102. For Greasemonkey: http://wiki.greasespot.net/Greasemonkey_Manual:Getting_Help.
 
-[SteamHTTPS v0.1](https://github.com/xJoeyv/SteamHTTPS/blob/master/SteamHTTPS-v1.js)
+[SteamHTTPS v0.1](https://github.com/xJoeyv/SteamHTTPS/blob/master/SteamHTTPS-v1.user.js) and click on **RAW**
 
 ### Usage
 
